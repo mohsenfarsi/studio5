@@ -16,7 +16,11 @@
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.0",
     "next-pwa": "^5.6.0",
-    "@supabase/supabase-js": "^2.39.5"
+    "@supabase/supabase-js": "^2.39.5",
+    "react-multi-date-picker": "^4.0.6",
+    "react-date-object": "^1.0.14",
+    "react-leaflet": "^4.2.1",
+    "leaflet": "^1.9.4"
   },
   "devDependencies": {
     "eslint": "8.56.0",
